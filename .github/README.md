@@ -47,4 +47,4 @@ Umbraco is contribution focused and community driven. If you want to contribute 
 Another way you can contribute to Umbraco is by providing issue reports. For information on how to submit an issue report refer to our [online guide for reporting issues](https://github.com/umbraco/Umbraco-CMS/blob/dev-v7/.github/CONTRIBUTING.md).
 
 You can comment and report issues on the [github issue tracker](https://github.com/umbraco/Umbraco-CMS/issues).
-Since [September 2018](https://umbraco.com/blog/a-second-take-on-umbraco-issue-tracker-hello-github-issues/) the old issue tracker is in read only mode, but can still be found at [http://issues.umbraco.org](http://issues.umbraco.org).
+Since [September 2018](https://umbraco.com/blog/a-second-take-on-umbraco-issue-tracker-hello-github-issues/) the old issue tracker is in read only mode, but can still be found at [https://issues.umbraco.org](https://issues.umbraco.org).
